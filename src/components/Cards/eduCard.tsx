@@ -5,7 +5,7 @@ export function EduCard() {
                 University of California San Diego
             </h3>
             <p className="text-gray-300 text-base text-left">
-                B.S. Bioinformatics
+                B.S. Computer Science with Bioinformatics
             </p>
             <p className="text-gray-300 text-base text-left">
                 La Jolla, California (2024 - Present)
